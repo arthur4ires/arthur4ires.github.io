@@ -8,7 +8,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   <a href="https://www.facebook.com/arthur.oliveira.25/"><img height="30px" src="/icones/fb.png"></a>
   <a href="https://www.instagram.com/airesflac/"><img  height="30px" src="/icones/instagram.png"></a> 
-  <a href="{{ site.github.owner_url }}"><img height="30px" src="/icones/github.png"></a>
+  <a href="https://github.com/arthur4ires"><img height="30px" src="/icones/github.png"></a>
   <br>
   
   
