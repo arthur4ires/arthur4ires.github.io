@@ -5,7 +5,7 @@
 ### Descobertas 
 
 
-- [Como descobri as senhas de quase todas as redes sem fio da minha cidade?](/wifi_python_aircrack)
+- [##](/wifi_python_aircrack)
 
 ---
 
