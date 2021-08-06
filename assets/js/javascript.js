@@ -4,7 +4,7 @@ $(document).ready(function(){
   $('.percentages section:nth-child(1) > .progress-bar').circleProgress({
     startAngle: -1.55,
     size: 120,
-      value: 0.95,
+      value: 1,
       fill: {
       color: 'crimson'
     }
@@ -15,7 +15,7 @@ $(document).ready(function(){
   $('.percentages section:nth-child(2) .progress-bar').circleProgress({
     startAngle: -1.55,
     size: 120,
-      value: 0.90,
+      value: 1,
       fill: {
       color: 'crimson'
     }
@@ -26,7 +26,7 @@ $(document).ready(function(){
   $('.percentages section:nth-child(3) .progress-bar').circleProgress({
     startAngle: -1.55,
     size: 120,
-      value: 0.75,
+      value: 1,
       fill: {
       color: 'crimson'
     }
