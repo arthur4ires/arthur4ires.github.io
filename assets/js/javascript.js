@@ -33,4 +33,16 @@ $(document).ready(function(){
   }).on('circle-animation-progress', function(event, progress, stepValue) {
     $(this).find('strong').text(String(stepValue.toFixed(0)).substr(0));
   });
+
+  $('.percentages section:nth-child(4) > .progress-bar').circleProgress({
+    startAngle: -1.55,
+    size: 120,
+      value: 100,
+      fill: {
+      color: 'crimson'
+    }
+  }).on('circle-animation-progress', function(event, progress, stepValue) {
+    $(this).find('strong').text(String(stepValue.toFixed(0)).substr(0));
+  });
+
 });
